@@ -51,7 +51,7 @@
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** Node.js, Express, Supabase, MongoDB, PostgreSQL  
 - **Mobile:** Flutter, Dart  
-- **Tools:** Git, Docker, Postman  
+- **Tools:** Git, Postman  
 
 ---
 
