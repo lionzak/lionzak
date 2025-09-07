@@ -31,7 +31,7 @@
 ---
 
 ### 🌐 Portfolio
-- Check out my work here: [**markalber.dev**](https://mark-alber.vercel.app/)
+- Check out my work here: [**My Personal Portfolio**](https://mark-alber.vercel.app/)
 
 ---
 
